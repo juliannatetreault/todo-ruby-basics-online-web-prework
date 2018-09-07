@@ -13,6 +13,7 @@ end
 def greeting(greeting, name)
   puts "#{greeting}#{name}"
 end
+greeting("Hi there, ", "Bobby!")
 
 def return_a_value
 
